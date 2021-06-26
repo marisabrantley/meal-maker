@@ -9,4 +9,4 @@ For this project, we used JavaScript to randomly create a three-course meal - ap
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
 
-JavaScript Syntax: Objects - JavaScript ES6 object syntax to model real-world items.
+JavaScript Syntax, Part II: Objects - JavaScript ES6 object syntax to model real-world items.
